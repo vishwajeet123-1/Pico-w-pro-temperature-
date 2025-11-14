@@ -27,9 +27,8 @@
 
 // ========================== CONFIGURATION ==========================
 // WiFi Settings - CHANGE THESE TO YOUR NETWORK
-#define WIFI_SSID           "DUBE BROADBAND 9423351431"
-#define WIFI_PASS           "78877532"
-
+#define WIFI_SSID           "YOUR_SSID"
+#define WIFI_PASS           "YOUR_PASSWORD"
 // Device Information
 #define DEVICE_NAME         "PicoTemp Pro"
 #define FIRMWARE_VERSION    "3.0.0"
